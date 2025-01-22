@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+/* import { useEffect, useState } from 'react';
 import { Navigate } from 'react-router-dom';
 import { isAuthenticated } from './config/auth';
 import React, { ReactNode } from 'react';
@@ -44,4 +44,4 @@ const ProtectedRoute: React.FC<ProtectedRouteProps> = ({ children }) => {
   return isLoggedIn ? <>{children}</> : <Navigate to="/" />;
 };
 
-export default ProtectedRoute;
+export default ProtectedRoute; */
